@@ -1,4 +1,4 @@
-# HON Thesis Project using gRodon
+# HON Thesis Project
 
 This repository contains R scripts for analyzing codon usage bias (CUB) metricsross six genomes.
 
