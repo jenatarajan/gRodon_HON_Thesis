@@ -1,6 +1,5 @@
 # HON Thesis Project
 
-This repository contains R scripts for analyzing codon usage bias (CUB) metricsross six genomes.
 
 ## Project Structure
 
@@ -11,7 +10,4 @@ This repository contains R scripts for analyzing codon usage bias (CUB) metricsr
 ## Usage
 
 1. **Install Required Packages**:
-
-   ```R
-   install.packages(c("coRdon", "Biostrings", "ggplot2", "tidyr", "dplyr"))
 
