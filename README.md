@@ -7,7 +7,5 @@
 - **data/**: Contains genome data files.
 - **results/**: Contains output plots.
 
-## Usage
 
-1. **Install Required Packages**:
 
